@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="reddot-logo.png" alt="Red Dot Academy Logo" width="150" />
+  <img src="ChatGPT%20Image%20Aug%204,%202025,%2001_41_51%20AM.png" alt="Red Dot Academy Logo" width="150" />
 </p>
 
 # 🔴 Red Dot Academy
