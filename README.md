@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🔴 Red Dot Academy
 
-<!--
-**ReddotAcademy/REDDOTACADEMY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎙️ Founded by Yashica Krishna  
+*India’s first voice-first public speaking institute*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In an age where AI is replacing tasks, your voice becomes your greatest asset.
+
+At Red Dot Academy, we empower students, professionals, and creatives to master:
+- Public speaking
+- Emotional intelligence
+- Storytelling
+- Confidence & communication
+
+We believe:  
+> "Automation can do tasks — but it can't lead, inspire, or connect like a human can."
+
+---
+
+📍 Bengaluru, India  
+📧 reddotacademy@gmail.com  
+🎥 YouTube: [@REDDOTACADEMY](https://www.youtube.com/@REDDOTACADEMY)  
+🔗 LinkedIn: [Yashica Krishna](https://www.linkedin.com/in/yashica-krishnan-4742aa1b8/)
+
+---
+
+### 🚀 Join Our First Batch
+> **Limited seats. Real voices. True impact.**
+
+Le
