@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="reddot-logo.png" alt="Red Dot Academy Logo" width="150" />
+</p>
+
 # 🔴 Red Dot Academy
 
 🎙️ Founded by Yashica Krishna  
@@ -21,11 +25,12 @@ We believe:
 📍 Bengaluru, India  
 📧 reddotacademy@gmail.com  
 🎥 YouTube: [@REDDOTACADEMY](https://www.youtube.com/@REDDOTACADEMY)  
-🔗 LinkedIn: [Yashica Krishna](https://www.linkedin.com/in/yashica-krishnan-4742aa1b8/)
+🔗 LinkedIn: [Yashica Krishna](https://www.linkedin.com/in/yashica-krishnan-4742aa1b8/)  
+📘 [Download Our Brochure](RedDotAcademy_Brochure.pdf)
 
 ---
 
 ### 🚀 Join Our First Batch
 > **Limited seats. Real voices. True impact.**
 
-Le
+Let’s build a future where the human voice still leads. 🔴
