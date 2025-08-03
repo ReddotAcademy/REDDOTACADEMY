@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="reddot-logo.png" alt="Red Dot Academy Logo" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Red_circle.svg/2048px-Red_circle.svg.png" alt="Red Dot Academy Logo" width="100" />
 </p>
 
 # 🔴 Red Dot Academy
