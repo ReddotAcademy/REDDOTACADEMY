@@ -47,7 +47,7 @@ And guess what? **Public speaking brings them all together.**
 📧 reddotacademy@gmail.com  
 🎥 YouTube: [@REDDOTACADEMY](https://www.youtube.com/@REDDOTACADEMY)  
 🔗 LinkedIn: [Yashica Krishna](https://www.linkedin.com/in/yashica-krishnan-4742aa1b8/)  
-📘 [Download Our Brochure](RedDotAcademy_Brochure.pdf)
+📘 [Download Our Brochure](India’s First Psychology-Driven Public Speaking School (5).pdf)
 
 ---
 
